@@ -1,0 +1,13 @@
+# OASIS-3 veri kullanım sözleşmesi (Data Use Agreement) ham/kişi-bazlı veri
+# paylaşımını yasaklıyor. Aşağıdakiler HİÇBİR ZAMAN commit edilmemeli:
+OASIS3_data_files/
+*.csv
+oasis3_final_dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# İşletim sistemi / editör
+.DS_Store
